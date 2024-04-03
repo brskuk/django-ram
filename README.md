@@ -5,7 +5,7 @@ Role based user access management for Django.
 # Requirements
 
 * Python 3.6+
-* Django 4.1, 4.0, 3.2, 3.1, 3.0
+* Django 5.0, 4.2, 4.1, 4.0, 3.2, 3.1, 3.0
 
 # Installation
 
