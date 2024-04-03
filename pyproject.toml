@@ -1,6 +1,6 @@
 [project]
 name = "django-ram"
-version = "0.1.2"
+version = "0.2.0"
 authors = [
   { name="Emil van der Westhuizen", email="vdwemil@protonmail.com" },
 ]
@@ -17,7 +17,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-rest_framework = ["djangorestframework>=3.10.0,<=3.14.0"]
+rest_framework = ["djangorestframework>=3.10.0,~=3.15.0"]
 
 [project.urls]
 "Homepage" = "https://github.com/vdwemil95/django-ram"
